@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<launch>
+    <arg name="model" default = "$(find robot_arm)/urdf/robot_arm_simulation.urdf.xacro"/>
+    
+    <param name="robot_description" command = "$(find xacro)/xacro $(arg model)"/>
+ 
+    <include file="$(find robot_arm_controller)/launch/controller_real.launch">
+        <arg name="is_sim" value="false"/>
+    </include>
+
+    <include file="$(find proyecto_moveit_config)/launch/move_group.launch"/>
+    
+
+    <include file="$(find robot_arm_remote)/launch/remote_interface.launch"/>
+    
+</launch>

@@ -1,0 +1,2 @@
+moveit_interface:proyecto:proyecto_moveit_config:robot_arm:robot_arm_bringup:robot_arm_controller:robot_arm_remote
+-DCATKIN_DEVEL_PREFIX=/home/alexoberco/ras_ws/devel -DCMAKE_INSTALL_PREFIX=/home/alexoberco/ras_ws/install -G Unix Makefiles

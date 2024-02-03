@@ -1,0 +1,8 @@
+prefix=/home/alexoberco/ras_ws/install
+
+Name: ras_actividad
+Description: Description of ras_actividad
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

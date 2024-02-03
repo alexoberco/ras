@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20230909-1715-Experimental"
+	Name="alexoberco-X441UV"
+	Generator="ctest-3.16.3"
+	CompilerName="/usr/bin/c++"
+	CompilerVersion="9.4.0"
+	OSName="Linux"
+	Hostname="alexoberco-X441UV"
+	OSRelease="5.15.0-82-generic"
+	OSVersion="#91~20.04.1-Ubuntu SMP Fri Aug 18 16:24:39 UTC 2023"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="78"
+	ProcessorCacheSize="3072"
+	NumberOfLogicalCPU="4"
+	NumberOfPhysicalCPU="2"
+	TotalVirtualMemory="5858"
+	TotalPhysicalMemory="7836"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="1999.98"
+	>
+	<Testing>
+		<StartDateTime>Sep 09 12:27 -05</StartDateTime>
+		<StartTestTime>1694280455</StartTestTime>
+		<TestList/>
+		<EndDateTime>Sep 09 12:27 -05</EndDateTime>
+		<EndTestTime>1694280455</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

@@ -1,0 +1,8 @@
+prefix=/home/alexoberco/ras_ws/devel
+
+Name: moveit_interface_basic
+Description: Description of moveit_interface_basic
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

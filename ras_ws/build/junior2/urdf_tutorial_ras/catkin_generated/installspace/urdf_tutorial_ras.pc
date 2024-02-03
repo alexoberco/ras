@@ -1,0 +1,8 @@
+prefix=/home/alexoberco/ras_ws/install
+
+Name: urdf_tutorial_ras
+Description: Description of urdf_tutorial_ras
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

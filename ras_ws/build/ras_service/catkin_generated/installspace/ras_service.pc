@@ -1,0 +1,8 @@
+prefix=/home/alexoberco/ras_ws/install
+
+Name: ras_service
+Description: Description of ras_service
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 
