@@ -1,8 +1,0 @@
-prefix=/home/alexoberco/ras_ws/install
-
-Name: robot_arm_remote
-Description: Description of robot_arm_remote
-Version: 0.0.0
-Cflags: -I${prefix}/include
-Libs: -L${prefix}/lib 
-Requires: 
