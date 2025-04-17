@@ -81,4 +81,4 @@ ras_ws/
 Contributions, bug reports, and pull requests are welcome. Please fork the repository, create a feature branch, and submit a pull request against `main`.
 
 ## License
-_No license specified._
+MIT License
