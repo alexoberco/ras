@@ -1,8 +1,0 @@
-prefix=/home/alexoberco/ras_ws/devel
-
-Name: robot_arm_remote
-Description: Description of robot_arm_remote
-Version: 0.0.0
-Cflags: -I/home/alexoberco/ras_ws/devel/include
-Libs: -L${prefix}/lib 
-Requires: 

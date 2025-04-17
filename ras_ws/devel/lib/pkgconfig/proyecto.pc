@@ -1,8 +1,0 @@
-prefix=/home/alexoberco/ras_ws/devel
-
-Name: proyecto
-Description: Description of proyecto
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
