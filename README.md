@@ -78,7 +78,7 @@ ras_ws/
   `roslaunch proyecto_moveit_config demo.launch`
 
 ## Contributing
-Contributions, bug reports, and pull requests are welcome. Please fork the repository, create a feature branch, and submit a pull request against `main`.
+Contributions are welcome! Please fork the repo, create a feature branch, and submit a pull request against `main`. Ensure new packages include appropriate launch demos and tests&#8203;.
 
 ## License
-MIT License
+This project is licensed under the **MIT License**, providing a permissive open-source framework while ensuring proper attribution to authors&#8203;.
