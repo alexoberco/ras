@@ -1,6 +1,12 @@
 ## Overview
 This repository provides a ROS 1 Noetic Catkin workspace (`ras_ws`) containing all packages and configurations necessary to run and simulate an Alexa‑controlled robot arm project using RViz and Gazebo. The Alexa integration nodes accept voice commands and translate them into ROS action goals.
 
+
+
+https://github.com/user-attachments/assets/7b573b7a-dee3-4f85-83db-97ff2fe6c218
+
+
+
 ## Prerequisites
 - **Operating System:** Ubuntu 20.04 (tested)  
 - **ROS Distribution:** ROS Noetic Ninjemys  
@@ -62,7 +68,8 @@ ras_ws/
 - **scripts/**  
   Utility scripts (e.g., `turtle_tf_broadcaster.py`) for quick testing of TF frames.
 
-[![Ver video](https://img.youtube.com/vi/M-rtOfD9f-A/0.jpg)](https://youtube.com/shorts/M-rtOfD9f-A)
+
+
 
 ## Usage Examples
 - **Visualize in RViz**  
